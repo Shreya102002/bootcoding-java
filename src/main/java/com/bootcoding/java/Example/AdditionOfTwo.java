@@ -5,7 +5,7 @@ public class AdditionOfTwo {
         int num1=24;
         int num2=30;
         int sum=num1+num2;
-          System.out.println(sum);
+        System.out.println(sum);;
     }
 
 }
