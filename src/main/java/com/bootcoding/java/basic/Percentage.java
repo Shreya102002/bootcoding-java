@@ -9,7 +9,7 @@ public class Percentage {
         double per = 0.0;
         int sum = n1 + n2 + n3;
         //calculateAverageandPercentage();
-        avg = n1 + n2 + n3 / 3;
+         avg = n1 + n2 + n3 / 3;
 
         //  CalculateAverageandPercentage();
 
